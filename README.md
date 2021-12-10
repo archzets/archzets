@@ -1,9 +1,7 @@
 <h1 align="center">Esenlikler Rıdvan</h1>
 <h3 align="center">Kötü bir yazılımcı</h3>
 
-<p align="left"> <img src="https://komarev.com/ ghpvc/?username=archzets&label=Profile%20views&color=0e75b6&style=flat" alt="archzets" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma /github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archzets" alt="archzets" /></a> </p>
 
 - 🌱 I Şu anda **FLutter android geliştiricileri** öğreniyorum
 
