@@ -32,4 +32,5 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=archzets&theme=dark&hide_border=do%C4%9Fru&date_format=n%2Fj%5B%2FY%5D&locale=tr)](https://git.io/streak-stats)
+
