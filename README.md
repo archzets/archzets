@@ -8,8 +8,6 @@
 
 - 🌱 Şu anda öğreniyorum **Java/Flutter dart**
 
-- 👨‍💻 Tüm projelerim şu adreste mevcuttur: [http://archportfolio.ml/](http://archportfolio.ml/)
-
 - 💬 Benimle sohbet et **instagram aşağıda**
 
 - 📫 Bana nasıl ulaşırsın **example@gmail.com**
